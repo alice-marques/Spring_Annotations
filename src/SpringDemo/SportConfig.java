@@ -16,8 +16,8 @@ public class SportConfig {
         return new SadFortuneService();
     }
     @Bean
-    public Coach swimCoach(){
-        return new SwimCoach(sadFortuneService());
+    public Coach handBallCoach(){
+        return new HandballCoach();
     }
 
 }

@@ -1,21 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b3bb33df-ea92-4d71-97e2-53262444269c" name="Changes" comment="Até aula 90.">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Spring_5_2_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-demo-annotations.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sport.properties" afterDir="false" />
+    <list default="true" id="b3bb33df-ea92-4d71-97e2-53262444269c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/SpringDemo/AnnotationConfigApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SpringDemo/ConfigSport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SpringDemo/HandballCoach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SpringDemo/NewFortuneService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SpringDemo/SportConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SpringDemo/SportConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SpringDemo/SwimCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SpringDemo/SwimCoach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SpringDemo/SwimJavaConfigDemoApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SpringDemo/SwimJavaConfigDemoApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +100,8 @@
       <updated>1660229131223</updated>
       <workItem from="1660229132528" duration="10818000" />
       <workItem from="1660309154937" duration="730000" />
-      <workItem from="1660316574804" duration="7852000" />
+      <workItem from="1660316574804" duration="8473000" />
+      <workItem from="1660566404280" duration="1469000" />
     </task>
     <task id="LOCAL-00001" summary="Até aula 90.">
       <created>1660323097909</created>
@@ -117,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660323097909</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Até aula 96.">
+      <created>1660326170407</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1660326170407</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,7 +125,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Até aula 90." />
-    <option name="LAST_COMMIT_MESSAGE" value="Até aula 90." />
+    <MESSAGE value="Até aula 96." />
+    <option name="LAST_COMMIT_MESSAGE" value="Até aula 96." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/spring_demo_annotations$AnnotationDemoApp.ic" NAME="AnnotationDemoApp Coverage Results" MODIFIED="1660240391437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
